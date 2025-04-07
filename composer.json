@@ -1,0 +1,14 @@
+{
+  "name": "molnar-sandor-benjamin/rackforest-test",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "MolnarSandorBenjamin\\RackforestTest\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.1",
+    "ext-pdo": "*",
+    "smarty/smarty": "^5.4"
+  }
+}
