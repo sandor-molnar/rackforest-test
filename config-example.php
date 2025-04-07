@@ -5,8 +5,8 @@ return [
         'port' => '3306',
         'driver' => 'mysql',
         'host' => 'localhost',
-        'username' => 'sasha',
-        'password' => '123',
+        'username' => '',
+        'password' => '',
         'dbname' => 'rackforest-test'
     ],
 ];
