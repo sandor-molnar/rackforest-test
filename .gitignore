@@ -1,3 +1,4 @@
 src/config/config.php
 src/views_c
 .idea
+vendor
